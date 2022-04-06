@@ -48,16 +48,3 @@ The dataset was initially retrieved from Kaggle from a <a href="https://www.kagg
 Final Accuracy = 58.33%, Validation Accuracy = 54.99%
 
 <img src="https://github.com/Chubbyman2/emotion-music-player/blob/main/media/model_training_results.JPG">
-
-## Authors
-
-Big thanks to the organizers at TOHacks and everyone on Team AlphaHax.
-
-* Charles Yuan
-* Dulhan Naidappuwa Waduge
-* Golden Wang
-* Ilan Benjamin
-
-## License
-
-This project is licensed under the MIT License - see the <a href="https://github.com/Chubbyman2/emotion-music-player/blob/main/LICENSE">LICENSE</a> file for details.
