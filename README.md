@@ -29,7 +29,7 @@ whitenoise==5.2.0
 
 ### Demonstration
 
-Web app is already deployed on Heroku: https://emotion-music-player.herokuapp.com/
+Deployed on Heroku: https://emotion-music-player.herokuapp.com/
 
 ## Built With
 
