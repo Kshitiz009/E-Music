@@ -2,15 +2,6 @@
 
 A web-based music player which detects the user's mood and recommends a set of songs, while changing its background theme accordingly. Made using HTML/CSS/Javascript for the frontend and Django/Python for the backend. The backend integrates both the Haar Cascade machine learning model and a CNN classifier through OpenCV. The classifier was trained using Colaboratory and Tensorflow. Essentially, the Haar Cascade algorithm utilizes the user's webcam to locate the user's face, which is then passed onto the classifier to detect what emotion the person is displaying. The classifier is trained on 4 emotions: Angry, Happy, Calm, and Sad. Depending on what emotion it detects, it will change the song selection and background of the music player accordingly.
 
-## Getting Started
-
-To deploy on a local host:
-
-```
-cd main
-python manage.py runserver
-```
-
 ### Prerequisites
 
 See requirements.txt. Note that most of it isn't needed to run locally, but for hosting on Heroku.
@@ -22,10 +13,6 @@ imutils==0.5.3
 imageio
 dj-database-url==0.5.0
 Django==3.1.2
-gunicorn==20.0.4
-psycopg2-binary==2.8.6
-whitenoise==5.2.0
-```
 
 ### Demonstration
 
