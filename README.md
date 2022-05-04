@@ -18,7 +18,7 @@ Django==3.1.2
 
 Deployed on Heroku: https://emotion-music-player.herokuapp.com/
 
-## Built With
+##  Used Technologies
 
 * HTML/CSS - Frontend styling and web page design
 * Javascript - Frontend music player functions
@@ -34,4 +34,3 @@ The dataset was initially retrieved from Kaggle from a <a href="https://www.kagg
 
 Final Accuracy = 58.33%, Validation Accuracy = 54.99%
 
-<img src="https://github.com/Chubbyman2/emotion-music-player/blob/main/media/model_training_results.JPG">
