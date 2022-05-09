@@ -4,14 +4,11 @@ A web-based music player which detects the user's mood and recommends a set of s
 
 ### Prerequisites
 
-See requirements.txt. Note that most of it isn't needed to run locally, but for hosting on Heroku.
+See requirements.txt.
 
 ```
 tensorflow-cpu
 opencv-python-headless
-imutils==0.5.3
-imageio
-dj-database-url==0.5.0
 Django==3.1.2
 
 #### Demonstration
